@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: "if you're too shy (the 1975)"
 date: '2020-08-02'
 ---
 
